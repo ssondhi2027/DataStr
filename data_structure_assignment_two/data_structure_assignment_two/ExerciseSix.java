@@ -1,5 +1,5 @@
 package data_structure_assignment_two;
-
+// the .remove() method is used to remove element of specified index from the list
 import java.util.ArrayList;
 import java.util.List;
 
