@@ -1,5 +1,5 @@
 package data_structure_assignment_two;
-
+// the .set() methos is used to reterieve the element at specific index and change it 
 import java.util.ArrayList;
 import java.util.List;
 
