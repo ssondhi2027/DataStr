@@ -19,5 +19,7 @@ public class LinkedListExerciseTwo
         {
             System.out.println(element);
         }
+         // it can also be printed as
+         System.out.println(l_list);
     }
 }
