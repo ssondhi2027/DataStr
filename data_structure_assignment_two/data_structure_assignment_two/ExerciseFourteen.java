@@ -2,7 +2,7 @@ package data_structure_assignment_two;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+// the .swap() method is used to swap elements of two idex
 public class ExerciseFourteen 
 {
     public static void main(String[] args) 
